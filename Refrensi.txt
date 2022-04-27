@@ -1,0 +1,1 @@
+https://gis.stackexchange.com/questions/90225/how-to-add-a-floating-crosshairs-icon-above-leaflet-map
